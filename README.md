@@ -2,9 +2,6 @@
 - 👀 Cursando Ciência da computação na UBC
 - 🌱 Aprendendo e aplicando JS e Python
 - 😄 Pronouns: ele\dele
-
-
-
 ## Linguagens
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width=40px />
