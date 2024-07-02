@@ -2,6 +2,9 @@
 - 👀 Cursando Ciência da computação na UBC
 - 🌱 Aprendendo e aplicando JS e Python
 - 😄 Pronouns: ele\dele
+
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CXM-creator&show_icons=true&theme=radical)
+
 ## Linguagens
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width=40px />
@@ -9,6 +12,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width=40px />        
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width=40px />     
 </div>
+
 
 ## Redes Sociais
 <div>
