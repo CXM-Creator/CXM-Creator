@@ -14,6 +14,7 @@
 <div>
   <img alt="Static Badge" src="https://img.shields.io/badge/-brightgreen?style=social&logo=gmail&logoColor=blue&logoSize=auto&label=Gmail&labelColor=abcdef&color=fedcba&cacheSeconds=3600">
   <a href="https://www.instagram.com/cassiano0_0/">  <img alt="Static Badge" src="https://img.shields.io/badge/-brightgreen?style=social&logo=Instagram&logoColor=orange&logoSize=auto&label=instagram&labelColor=abcdef&color=fedcba&cacheSeconds=3600"></a>
+  <a href="https://www.facebook.com/cassiano.xaviermartinez/?locale=pt_BR"><img alt="Static Badge" src="https://img.shields.io/badge/-brightgreen?logo=Facebook&label=Facebook&labelColor=blue&color=blue"></a>
 </div>
 
 
